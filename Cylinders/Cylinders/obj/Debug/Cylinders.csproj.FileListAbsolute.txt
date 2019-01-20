@@ -1,0 +1,6 @@
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\Cylinders\Cylinders\bin\Debug\Cylinders.exe
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\Cylinders\Cylinders\bin\Debug\Cylinders.pdb
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\Cylinders\Cylinders\obj\Debug\Cylinders.csprojAssemblyReference.cache
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\Cylinders\Cylinders\obj\Debug\Cylinders.csproj.CoreCompileInputs.cache
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\Cylinders\Cylinders\obj\Debug\Cylinders.exe
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\Cylinders\Cylinders\obj\Debug\Cylinders.pdb

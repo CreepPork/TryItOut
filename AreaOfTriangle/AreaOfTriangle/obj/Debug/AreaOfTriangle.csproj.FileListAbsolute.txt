@@ -1,0 +1,6 @@
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\AreaOfTriangle\AreaOfTriangle\bin\Debug\AreaOfTriangle.exe
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\AreaOfTriangle\AreaOfTriangle\bin\Debug\AreaOfTriangle.pdb
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\AreaOfTriangle\AreaOfTriangle\obj\Debug\AreaOfTriangle.csprojAssemblyReference.cache
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\AreaOfTriangle\AreaOfTriangle\obj\Debug\AreaOfTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\AreaOfTriangle\AreaOfTriangle\obj\Debug\AreaOfTriangle.exe
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\AreaOfTriangle\AreaOfTriangle\obj\Debug\AreaOfTriangle.pdb

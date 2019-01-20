@@ -1,0 +1,6 @@
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\PositiveOrNegative\PositiveOrNegative\bin\Debug\PositiveOrNegative.exe
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\PositiveOrNegative\PositiveOrNegative\bin\Debug\PositiveOrNegative.pdb
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\PositiveOrNegative\PositiveOrNegative\obj\Debug\PositiveOrNegative.csprojAssemblyReference.cache
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\PositiveOrNegative\PositiveOrNegative\obj\Debug\PositiveOrNegative.csproj.CoreCompileInputs.cache
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\PositiveOrNegative\PositiveOrNegative\obj\Debug\PositiveOrNegative.exe
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\PositiveOrNegative\PositiveOrNegative\obj\Debug\PositiveOrNegative.pdb

@@ -1,0 +1,6 @@
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\PrintAPyramid\PrintAPyramid\bin\Debug\PrintAPyramid.exe
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\PrintAPyramid\PrintAPyramid\bin\Debug\PrintAPyramid.pdb
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\PrintAPyramid\PrintAPyramid\obj\Debug\PrintAPyramid.csprojAssemblyReference.cache
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\PrintAPyramid\PrintAPyramid\obj\Debug\PrintAPyramid.csproj.CoreCompileInputs.cache
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\PrintAPyramid\PrintAPyramid\obj\Debug\PrintAPyramid.exe
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\PrintAPyramid\PrintAPyramid\obj\Debug\PrintAPyramid.pdb

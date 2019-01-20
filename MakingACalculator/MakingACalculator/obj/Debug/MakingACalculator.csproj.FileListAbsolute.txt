@@ -1,0 +1,6 @@
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\MakingACalculator\MakingACalculator\bin\Debug\MakingACalculator.exe
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\MakingACalculator\MakingACalculator\bin\Debug\MakingACalculator.pdb
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\MakingACalculator\MakingACalculator\obj\Debug\MakingACalculator.csprojAssemblyReference.cache
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\MakingACalculator\MakingACalculator\obj\Debug\MakingACalculator.csproj.CoreCompileInputs.cache
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\MakingACalculator\MakingACalculator\obj\Debug\MakingACalculator.exe
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\MakingACalculator\MakingACalculator\obj\Debug\MakingACalculator.pdb

@@ -1,0 +1,6 @@
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\ReversingAnArray\ReversingAnArray\bin\Debug\ReversingAnArray.exe
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\ReversingAnArray\ReversingAnArray\bin\Debug\ReversingAnArray.pdb
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\ReversingAnArray\ReversingAnArray\obj\Debug\ReversingAnArray.csprojAssemblyReference.cache
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\ReversingAnArray\ReversingAnArray\obj\Debug\ReversingAnArray.csproj.CoreCompileInputs.cache
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\ReversingAnArray\ReversingAnArray\obj\Debug\ReversingAnArray.exe
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\ReversingAnArray\ReversingAnArray\obj\Debug\ReversingAnArray.pdb

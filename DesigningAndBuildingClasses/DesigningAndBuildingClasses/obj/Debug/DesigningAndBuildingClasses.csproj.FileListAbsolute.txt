@@ -1,0 +1,6 @@
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\DesigningAndBuildingClasses\DesigningAndBuildingClasses\bin\Debug\DesigningAndBuildingClasses.exe
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\DesigningAndBuildingClasses\DesigningAndBuildingClasses\bin\Debug\DesigningAndBuildingClasses.pdb
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\DesigningAndBuildingClasses\DesigningAndBuildingClasses\obj\Debug\DesigningAndBuildingClasses.csprojAssemblyReference.cache
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\DesigningAndBuildingClasses\DesigningAndBuildingClasses\obj\Debug\DesigningAndBuildingClasses.csproj.CoreCompileInputs.cache
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\DesigningAndBuildingClasses\DesigningAndBuildingClasses\obj\Debug\DesigningAndBuildingClasses.exe
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\DesigningAndBuildingClasses\DesigningAndBuildingClasses\obj\Debug\DesigningAndBuildingClasses.pdb

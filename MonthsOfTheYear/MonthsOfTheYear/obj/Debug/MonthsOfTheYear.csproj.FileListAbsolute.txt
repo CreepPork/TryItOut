@@ -1,0 +1,6 @@
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\MonthsOfTheYear\MonthsOfTheYear\bin\Debug\MonthsOfTheYear.exe
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\MonthsOfTheYear\MonthsOfTheYear\bin\Debug\MonthsOfTheYear.pdb
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\MonthsOfTheYear\MonthsOfTheYear\obj\Debug\MonthsOfTheYear.csprojAssemblyReference.cache
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\MonthsOfTheYear\MonthsOfTheYear\obj\Debug\MonthsOfTheYear.csproj.CoreCompileInputs.cache
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\MonthsOfTheYear\MonthsOfTheYear\obj\Debug\MonthsOfTheYear.exe
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\MonthsOfTheYear\MonthsOfTheYear\obj\Debug\MonthsOfTheYear.pdb

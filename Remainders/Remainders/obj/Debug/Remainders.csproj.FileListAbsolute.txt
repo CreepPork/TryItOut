@@ -1,0 +1,6 @@
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\Remainders\Remainders\bin\Debug\Remainders.exe
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\Remainders\Remainders\bin\Debug\Remainders.pdb
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\Remainders\Remainders\obj\Debug\Remainders.csprojAssemblyReference.cache
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\Remainders\Remainders\obj\Debug\Remainders.csproj.CoreCompileInputs.cache
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\Remainders\Remainders\obj\Debug\Remainders.exe
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\Remainders\Remainders\obj\Debug\Remainders.pdb

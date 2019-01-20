@@ -1,0 +1,6 @@
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\EvenAndOdd\EvenAndOdd\bin\Debug\EvenAndOdd.exe
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\EvenAndOdd\EvenAndOdd\bin\Debug\EvenAndOdd.pdb
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\EvenAndOdd\EvenAndOdd\obj\Debug\EvenAndOdd.csprojAssemblyReference.cache
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\EvenAndOdd\EvenAndOdd\obj\Debug\EvenAndOdd.csproj.CoreCompileInputs.cache
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\EvenAndOdd\EvenAndOdd\obj\Debug\EvenAndOdd.exe
+C:\Users\Uldis\Documents\RiderProjects\TryItOut\EvenAndOdd\EvenAndOdd\obj\Debug\EvenAndOdd.pdb
